@@ -1,0 +1,6 @@
+recommendation_id,request_id,session_id,dm_id,dm_name,hard_filter_result,match_score,review_credibility,final_recommendation_score,rank,recommendation_reason,manager_confirmed
+REC001,REQ001,SES001,DM001,林川,通过,4.25,0.955,4.06,1,"幽默搞笑与服务态度较高，且可主持诡影山庄",否
+REC002,REQ001,SES001,DM003,陈默,通过,4.20,0.911,3.83,2,"规则讲解和控场应变较强，适合新手机制理解",否
+REC003,REQ002,SES002,DM002,周野,通过,4.37,0.891,3.90,1,"演绎沉浸、控场应变和服务态度更符合沉浸情感车",否
+REC004,REQ003,SES003,DM003,陈默,通过,4.48,0.911,4.08,1,"规则讲解、剧本节奏和控场应变表现突出",否
+REC005,REQ004,SES004,DM001,林川,通过,4.26,0.955,4.07,1,"幽默搞笑、规则讲解和服务态度较均衡",否

@@ -1,0 +1,6 @@
+script_id,script_name,script_type,difficulty,player_count_range,estimated_duration_minutes,required_room_type,required_equipment,description,status
+SCRIPT001,诡影山庄,欢乐,中,6-8,240,标准房,"背景音乐,基础道具","偏重互动与气氛，适合新手欢乐局",启用
+SCRIPT002,雾都旧案,情感,中,5-6,300,沉浸房,"背景音乐,情绪道具,灯光","偏重演绎与情绪推进",启用
+SCRIPT003,黑箱游戏,机制,高,6-8,270,标准房,"计时器,机制道具,白板","偏重规则理解、节奏和控场",启用
+SCRIPT004,第七封信,推理,中高,6-7,300,推理房,"线索卡,白板,计时器","偏重线索整理、规则清晰和逻辑推进",启用
+SCRIPT005,长夜将明,恐怖,中,5-7,240,沉浸房,"灯光,音响,恐怖道具","偏重演绎沉浸、氛围营造和现场应变",启用

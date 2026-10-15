@@ -1,0 +1,25 @@
+__pycache__/
+*.pyc
+*.sqlite3
+*.log
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+embedding_cache.json
+server.out.log
+server.err.log
+
+# Local-only artifacts
+outputs/
+最新简历/
+portfolio-site/
+evidence_screens/
+user_validation_pack/
+demo_recording/
+resume_*.png
+*_resume_render-*.png
+
+rag/chunks.json
+

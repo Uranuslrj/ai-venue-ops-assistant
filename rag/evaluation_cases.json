@@ -1,0 +1,9 @@
+[
+  {"case_id":"EVAL-001","query":"玩家多次表示规则没有听清，DM没有及时重新解释，影响机制推进","expected_sources":["dm_service_sop.md","issue_playbook.md"],"forbidden_sources":["script_rule_guidelines.md"],"expect_grounded":true},
+  {"case_id":"EVAL-002","query":"中段等待时间较长，提示发放不及时，玩家觉得推进拖沓","expected_sources":["issue_playbook.md"],"expect_grounded":true},
+  {"case_id":"EVAL-003","query":"开场互动少，欢乐本气氛不够","expected_sources":["script_rule_guidelines.md"],"expect_grounded":true},
+  {"case_id":"EVAL-004","query":"房间空调太冷，与DM服务规则无关","expected_sources":[],"expect_grounded":false},
+  {"case_id":"EVAL-005","query":"规则讲解清楚，气氛很好，服务耐心","expected_sources":[],"expect_grounded":true,"expect_no_improvement":true},
+  {"case_id":"EVAL-006","query":"玩家体验一般","expected_sources":[],"expect_grounded":false},
+  {"case_id":"EVAL-007","query":"演绎出戏，情绪衔接不自然","expected_sources":["script_rule_guidelines.md"],"expect_grounded":true}
+]
