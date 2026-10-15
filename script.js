@@ -1,0 +1,1 @@
+const links=[...document.querySelectorAll('a[href^="#"]')];links.forEach(a=>a.addEventListener('click',()=>{document.body.classList.add('navigated');setTimeout(()=>document.body.classList.remove('navigated'),500)}));
